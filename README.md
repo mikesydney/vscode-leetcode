@@ -1,4 +1,9 @@
-# LeetCode
+# LeetCode Extension with Customisation
+
+1. run "vsce package" to package the extension
+2. in vscode, right click the .vsix file to install it
+
+
 
 > Solve LeetCode problems in VS Code
 
